@@ -1,0 +1,20 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.charlesmilette.wileyfoxdrawericon">
+
+    <application
+        android:icon="@drawable/drawer"
+        android:label="Wileyfox Drawer Icon">
+
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true" />
+        <meta-data
+            android:name="xposeddescription"
+            android:value="Change your app drawer's icon for the one included in Wileyfox devices." />
+        <meta-data
+            android:name="xposedminversion"
+            android:value="53" />
+
+    </application>
+
+</manifest>
