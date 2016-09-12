@@ -19,13 +19,13 @@ If anything doesn't works, you're welcome to file an issue. I'll make sure to fu
 
 ## Screenshots
 
-TTODO
+![Trebuchet on Marshmallow](http://i.imgur.com/pWcuplP.png)
 
 ## Links
 
 [Xposed Module Repository](http://repo.xposed.info/module/me.charlesmilette.wileyfoxdrawericon)
 
-[XDA Developers Forum Thread](example.com)
+[XDA Developers Forum Thread](http://forum.xda-developers.com/xposed/modules/xposed-wileyfox-drawer-icon-t3460440)
 
 ## Compiling
 
