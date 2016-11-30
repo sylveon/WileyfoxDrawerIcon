@@ -10,7 +10,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Change your app drawer's icon for the one included in Wileyfox devices." />
+            android:value="Change your app drawer's icon for the one included in Wileyfox devices" />
         <meta-data
             android:name="xposedminversion"
             android:value="53" />
